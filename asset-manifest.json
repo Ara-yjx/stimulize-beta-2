@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://ara-yjx.github.io/stimulize-beta-2/static/css/main.c107c7f9.css",
-    "main.js": "https://ara-yjx.github.io/stimulize-beta-2/static/js/main.e02bf0a8.js",
+    "main.js": "https://ara-yjx.github.io/stimulize-beta-2/static/js/main.7ca611ec.js",
     "static/js/453.eae8a547.chunk.js": "https://ara-yjx.github.io/stimulize-beta-2/static/js/453.eae8a547.chunk.js",
     "index.html": "https://ara-yjx.github.io/stimulize-beta-2/index.html",
     "main.c107c7f9.css.map": "https://ara-yjx.github.io/stimulize-beta-2/static/css/main.c107c7f9.css.map",
-    "main.e02bf0a8.js.map": "https://ara-yjx.github.io/stimulize-beta-2/static/js/main.e02bf0a8.js.map",
+    "main.7ca611ec.js.map": "https://ara-yjx.github.io/stimulize-beta-2/static/js/main.7ca611ec.js.map",
     "453.eae8a547.chunk.js.map": "https://ara-yjx.github.io/stimulize-beta-2/static/js/453.eae8a547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c107c7f9.css",
-    "static/js/main.e02bf0a8.js"
+    "static/js/main.7ca611ec.js"
   ]
 }
